@@ -23,16 +23,17 @@ Status: Status of complaint
 Filing on behalf of someone
 
 **Analysis Task**
-- Import data into the R environment.
-- Provide the trend chart for the number of complaints at monthly and daily granularity levels.
-- Provide a table with the frequency of complaint types.
+- Import the dataset (.csv file) into the R environment.
+- Analyse and prepare the data to provide the trend chart for the number of complaints at monthly and daily granularity levels.
+- Also, Provide a table with the frequency of complaint types.
 
-Which complaint types are maximum i.e., around the internet, network issues, or across any other domains?
+Which complaint types are maximum i.e., around the Internet, network issues, or across any other domains?
 - Create a new categorical variable with values as Open and Closed. Open & Pending is to be categorized as Open and Closed & Solved is to be categorized as Closed.
-- Provide state-wise status of complaints in a stacked bar chart. Use the categorized variable from Q3. Provide insights on:
+- Provide state-wise status of complaints in a stacked bar chart. Use the categorized variable from Q3.
+-  Provide insights on:
 
 Which state has the maximum number of complaints
 Which state has the highest percentage of unresolved complaints
 - Provide the percentage of complaints resolved to date, which were received through the Internet and customer care calls.
 
-The analysis results are to be provided with insights wherever applicable.
+The analysis results are explained with visualizations, wherever applicable.
